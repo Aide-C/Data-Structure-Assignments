@@ -1,4 +1,4 @@
-# Data-Structure-Assignmentsk 
+# Data-Structure-Assignments
 These are 5  C++ assignments that I did for my Fall 2021 Data & Structures & Algorithms course at TXST.
 
 ## Description 
